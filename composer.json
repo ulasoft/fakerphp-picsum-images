@@ -1,5 +1,5 @@
 {
-    "name": "smknstd/fakerphp-picsum-images",
+    "name": "ulasoft/fakerphp-picsum-images",
     "description": "Alternative image provider for fakerphp using picsum.photos ",
     "keywords": [
         "faker",
@@ -17,7 +17,7 @@
         }
     ],
     "require": {
-        "php": "^8.0",
+        "php": "7.4.3|^8.0",
         "fakerphp/faker": "^1.10"
     },
     "require-dev": {
